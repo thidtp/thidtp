@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm passionate about coding and creating innovativ
 
 > "Life is 10% what happens to us and 90% how we react to it."
 
-## 🌱 Current Learning Goals
-
-I'm currently focused on enhancing my skills in [specific technology or area of interest].
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thidtp&show_icons=true&theme=radical)
