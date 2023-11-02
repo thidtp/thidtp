@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding and creating innovativ
 - 🔭 I'm proficient in: C, C#, C++, Java, JavaScript, HTML5, CSS3.
 - 🌐 I've worked with: Oracle, Microsoft SQL Server, MySQL, and NoSQL.
 - 🛠️ I enjoy using: .NET.
-- 🌍 I also have experience with Apache for web servers.
 
 ## 🌐 Connect with Me
 
