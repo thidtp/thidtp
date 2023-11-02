@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding and creating innovativ
 
 ## 🌐 Connect with Me
 
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thie.duog/)
-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thidtp.02@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thie.duog/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thidtp.02@gmail.com) 
 
 ## 📣 Favorite Quote
 
@@ -20,4 +19,3 @@ Welcome to my GitHub profile! I'm passionate about coding and creating innovativ
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thidtp&show_icons=true&theme=radical)
-
