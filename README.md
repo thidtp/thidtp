@@ -56,13 +56,45 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thidtp&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=thidtp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=thidtp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<h2 align="center">
+  <img src="images/star.gif" width="30px">
+  Stats
+  <img src="images/star.gif" width="30px">
+</h2>
 
+<br>
 <br/><br/>
+<table>
+  <tr>
+    <td valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thidtp&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=react">
+        <img src="https://github-readme-stats.vercel.app/api?username=thidtp&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=default">
+      </picture>
+    </td>
+    <td valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app/?user=thidtp&background=00000000&hide_border=true&theme=react&currStreakNum=ffffff">
+        <img src="https://github-readme-streak-stats-five-jet.vercel.app/?user=thidtp&background=00000000&hide_border=true&theme=default&ring=5194F0&fire=5194F0&currStreakLabel=2F80ED&currStreakNum=434D58&sideNums=434D58">
+      </picture>
+    </td>
+  </tr>
+  <tr/>
+  <tr>
+    <td colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thidtp&custom_title=Contribution&nbsp;Graph&hide_border=true&bg_color=00000000&theme=react&point=ffffff">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=thidtp&custom_title=Contributions&nbsp;Graph&hide_border=true&bg_color=00000000&theme=minimal">
+      </picture>
+    </td>
+      
+  </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thidtp&layout=compact&hide_border=true&bg_color=00000000&theme=tokyonight&title_color=70A5FD&text_color=C3D1E5">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thidtp&layout=compact&hide_border=true&bg_color=00000000&theme=gruvbox&title_color=FABD2F&text_color=EBDBB2">
+        </picture>
+      </td>
+    </tr>
+</table>
