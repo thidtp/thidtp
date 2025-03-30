@@ -57,9 +57,9 @@
 <hr/>
 
 <h2 align="center">
-  <img src="images/star.gif" width="30px">
+  🐣
   Stats
-  <img src="images/star.gif" width="30px">
+  🐣
 </h2>
 
 <br>
