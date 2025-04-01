@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phuong+Thi!;" />
@@ -6,8 +5,11 @@
 
 <h3 align="center">🚀A passionate Frontend Developer from Vietnam, crafting seamless and interactive web experiences with modern technologies.</h3>
 <div align="center">
-  <picture><img src="https://komarev.com/ghpvc/?style=for-the-badge&color=blueviolet&base=700&username=thidtp"/></picture>
+  <picture>
+    <img src="https://komarev.com/ghpvc/?username=thidtp&style=for-the-badge&color=blueviolet"/>
+  </picture>
 </div>
+
 <br/>
 
 
@@ -18,18 +20,22 @@
 💬 Ask me about ** React, Tailwind**
 
 ⚡ Fun fact ** I’m not lazy, I’m just in energy-saving mode! 😎💤**
-
+<p>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300px"/>
+</p>
  </div>
+
+
  
 <div align="center"> 
-  <a href="thidtp.02@gmail.com">
+  <a href="mailto:thidtp.02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/thieduong/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://duongthiphuongthi.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
